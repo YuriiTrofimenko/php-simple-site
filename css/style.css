@@ -1,0 +1,77 @@
+.head{
+	background: url(../images/back.jpg);
+	background-size:  cover;
+	height: 150px;
+}
+
+.head form{
+	width:200px;
+	float: right;
+}
+
+.head h4, h5{
+	background: #fff;
+	padding: 5px;
+	margin: 0;
+}
+
+.head h4>span{
+	color:#04d;
+}
+
+.head form input{
+	width:200px;
+	margin-top: 2px;
+}
+
+footer{
+	text-align: center;
+	background-color: #ddf;
+}
+
+.page-header{
+	text-align: center;
+}
+
+.content{
+	margin: 0 auto;
+	padding: 20px;
+}
+
+#table1 img{
+	width:100px;
+}
+
+.phead{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.row>div{
+height:300px;
+overflow-y: scroll;
+box-sizing: border-box;
+padding: 10px;
+}
+
+#formhotel textarea{
+	width:100%;
+	height: 50px;
+	margin-top: 5px;
+}
+
+#formhotel select, #formcity select{
+	height:26px;
+}
+
+#formhotel input[type="radio"]{
+	margin-left:5px;
+}
+
+.left{
+background: #ffd;
+}
+
+.right{
+background: #dff;
+}

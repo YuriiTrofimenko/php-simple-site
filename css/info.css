@@ -1,0 +1,50 @@
+body{
+font-family:Arial,sans-serif;
+}
+
+main>h2{
+    font-weight: 700;
+}
+
+footer{
+		text-align: center;
+		background-color: #ddf;
+		}
+
+@media screen and (min-width: 950px){
+
+body{
+    background: url(../images/back3.jpg);
+}
+
+main{
+    width:900px;
+    max-height: 600px;
+    margin: 50px auto;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+main>p{
+    overflow-y: scroll;
+}
+
+main>h2{
+    color:#145FBA;
+}
+
+.gallery{
+    height:400px;
+}
+
+
+
+footer{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0);
+    color: #fff;
+    font-size:13px;
+    text-shadow:2px 2px 5px #000;
+}
+}

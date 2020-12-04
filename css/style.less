@@ -1,0 +1,66 @@
+.head{
+	background: url(../images/back.jpg);
+	background-size:  cover;
+	height: 150px;
+	
+	h4, h5{
+		background: #fff;
+		padding: 5px;
+		margin: 0;
+		}
+
+	form{
+		width:200px;
+		float: right;
+
+		input{
+			width:200px;
+			margin-top: 2px;
+			}
+	}
+}
+
+footer{
+	text-align: center;
+	background-color: #ddf;
+}
+
+@media screen and (min-width: 950px){
+.head{
+	background: none;
+}
+
+body{
+	background: url(../images/back1.jpg);
+	height: 100%;
+}
+
+footer{
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0);
+	color: #fff;
+	font-size:13px;
+	text-shadow:2px 2px 5px #000;
+}
+
+.content{
+	width:800px;
+	margin: 0 auto;
+	background: rgba(255,255,255,0.8);
+	padding: 10px;
+	border-radius: 10px;
+	min-height: 500px;
+	overflow: hidden;
+
+	.row>div{
+		height:300px;
+		width: 400px;
+		overflow-y: scroll;
+		box-sizing: border-box;
+		padding: 10px;
+		}
+}
+
+
+
+}
