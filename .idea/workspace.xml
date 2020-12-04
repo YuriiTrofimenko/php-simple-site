@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fee35604-2282-4486-870f-74b91cdb4879" name="Default Changelist" comment="" />
+    <list default="true" id="fee35604-2282-4486-870f-74b91cdb4879" name="Default Changelist" comment="init n legacy code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/createdb.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/createdb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/functions.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +14,16 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpServers">
     <servers>
       <server host="localhost" id="677aaa8f-ac33-4e74-a603-243e6d7e97d7" name="Localhost" />
     </servers>
   </component>
   <component name="ProjectId" id="1lCM4LGnT25B9hdlZqMce52mViT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,6 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -41,10 +50,23 @@
       <option name="presentableId" value="Default" />
       <updated>1607096430547</updated>
       <workItem from="1607096432413" duration="1710000" />
+      <workItem from="1607098208616" duration="4864000" />
     </task>
+    <task id="LOCAL-00001" summary="init n legacy code">
+      <created>1607098453736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607098453736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init n legacy code" />
+    <option name="LAST_COMMIT_MESSAGE" value="init n legacy code" />
   </component>
 </project>
